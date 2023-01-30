@@ -5,6 +5,7 @@ An arithmetic logic unit (ALU) that performs addition, subtraction, AND, OR, and
 
 It is important in this project to get the equations correctly because everything will depend on them, so we divided the project into 4 Equations one for the addition/subtraction the other for 4 bit AND,4 bit OR, 4 bit XOR to make it easier to understand and organize.
 For the addition/subtraction:
+
 S1= A1^ (B1 ^M) ^ M.
 
 C1 = A1M + B1 M + A1B1.
